@@ -73,15 +73,15 @@ Preliminary insights are derived through various groupings and comparisons, part
 
 Correlation matrix
 
-![alt text](<Screenshot 2024-10-20 at 3.21.23 PM.png>)
+![alt text](<img/Screenshot 2024-10-20 at 3.21.23 PM.png>)
 
 Example of the hist plot for numeric features
 
-![alt text](<Screenshot 2024-10-20 at 3.22.44 PM.png>)
+![alt text](<img/Screenshot 2024-10-20 at 3.22.44 PM.png>)
 
 Example count plot for categories features
 
-![alt text](<Screenshot 2024-10-20 at 3.23.47 PM.png>)
+![alt text](<img/Screenshot 2024-10-20 at 3.23.47 PM.png>)
 ## Prediction Model
 
 ### Model Development
@@ -134,13 +134,13 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Confusion Matrix:\n", confusion_matrix(y_test, y_pred))
 print("Classification Report:\n", classification_report(y_test, y_pred))
 ```
-![alt text](<Screenshot 2024-10-20 at 3.17.34 PM.png>)
+![alt text](<img/Screenshot 2024-10-20 at 3.17.34 PM.png>)
 
 Plot the actual and predicted claim
-![alt text](<Screenshot 2024-10-20 at 3.17.42 PM.png>)
+![alt text](<img/Screenshot 2024-10-20 at 3.17.42 PM.png>)
 Feature importances
 
-![alt text](<Screenshot 2024-10-20 at 3.17.54 PM.png>)
+![alt text](<img/Screenshot 2024-10-20 at 3.17.54 PM.png>)
 
 ### Results
 

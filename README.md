@@ -150,3 +150,8 @@ The results will be analyzed to determine the effectiveness of the model and how
 
 This analysis aims to provide insights that can help improve the vehicle insurance claims process, potentially leading to better pricing strategies and risk assessments.
 
+## License
+
+MIT license
+
+Copyright (c) [2024] [Aimee Le]

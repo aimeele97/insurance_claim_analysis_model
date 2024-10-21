@@ -71,14 +71,17 @@ df.nunique()
 
 Preliminary insights are derived through various groupings and comparisons, particularly focusing on the relationship between the `segment` of the vehicle and its `displacement` and claim rate.
 
+Distribution of claims
+
+![alt text](<img/Screenshot 2024-10-22 at 9.46.54 AM.png>)
+
 Correlation matrix
 
 ![alt text](<img/Screenshot 2024-10-20 at 3.21.23 PM.png>)
 
 Example of the hist plot for numeric features
 
-![alt text](<img/Screenshot 2024-10-20 at 3.22.44 PM.png>)
-
+![alt text](<img/Screenshot 2024-10-22 at 9.43.50 AM.png>)
 Example count plot for categories features
 
 ![alt text](<img/Screenshot 2024-10-20 at 3.23.47 PM.png>)
